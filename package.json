@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "description": "Easy to use declarative transitions and animations for React Native",
   "typings": "typings/react-native-animatable.d.ts",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "jest": "./node_modules/.bin/jest",
     "jest:watch": "npm run jest -- --watch",
